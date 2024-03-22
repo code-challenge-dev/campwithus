@@ -1,6 +1,6 @@
 # <p align="center"><b>CampWithUs</b></p>
 
-<p align="center"> Welcome to CampWithUs! This project is a comprehensive Express application developed by Maksym Azimov. CampWithUs aims to provide a seamless platform for camp enthusiasts to explore, plan, and share their outdoor adventures.</p>
+### <p align="center"> Welcome to CampWithUs! This project is a comprehensive Express application developed by Maksym Azimov. CampWithUs aims to provide a seamless platform for camp enthusiasts to explore, plan, and share their outdoor adventures.</p>
 
 
 <b>Features:</b>
