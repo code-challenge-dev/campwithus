@@ -42,4 +42,9 @@ Contributions to CampWithUs are welcome! Whether you want to report a bug, reque
 
 For any inquiries or support regarding CampWithUs, feel free to reach out to the project maintainer, Maksym Azimov, via email at azimov.workspace@gmail.com.
 
+## Contributors
+
+[Maksym Azimov](https://github.com/bbyc4kes) - Lead Developer.
+
+
 Thank you for choosing CampWithUs! Happy camping! 🏕️
